@@ -44,7 +44,7 @@ these defined as well. Consult their documentation how to do this. For example, 
 
 ## CLI usage
 
-Beyond using the package as a dependency, a CLI utility is provided for testing environnement values and _also_ injecting the environment variables into a command.
+Beyond using the package as a dependency, a CLI utility is provided for testing environment values and _also_ injecting the environment variables into a command.
 
 Assuming the package was installed locally to your project, and using [npx](https://www.npmjs.com/package/npx) to run a `.bin` command:
 
